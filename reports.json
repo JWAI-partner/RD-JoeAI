@@ -6,8 +6,19 @@
     "AI tool list",
     "LLM Model"
   ],
-  "updated": "2026-10-16",
+  "updated": "2026-10-20",
   "reports": [
+    {
+      "date": "2026-10-20",
+      "title": "OpenCode Go 模型全景報告（2026-10-20）",
+      "summary": "對照 9/24 指南：37 個模型 ID 異動、新進與下架、價格額度調整、OpenCode 全域使用量與留存實測，選型結論與免費退路更新。",
+      "tags": [
+        "AI 工具",
+        "模型選型"
+      ],
+      "format": "html",
+      "href": "reports/2026-10-20_opencode-go-models/"
+    },
     {
       "date": "2026-10-12",
       "title": "Karpathy：四層認知漏斗，2000 萬人陷「AI 代理眩暈區」",
@@ -22,7 +33,7 @@
     },
     {
       "date": "2026-10-02",
-      "title": "OpenRouter 模型選型指南",
+      "title": "OpenRouter 模型選型指南（2026-10-02）",
       "summary": "以 OpenCode Go 四選為基準，比較 OpenRouter 模型的每成功成本、困難任務解題率與社群評論，給出 Go 為主、OpenRouter 補位的組合。",
       "tags": [
         "AI 工具",
@@ -45,7 +56,7 @@
     },
     {
       "date": "2026-09-29",
-      "title": "OpenCode Go 深度研究模型選型",
+      "title": "OpenCode Go 深度研究模型選型（2026-09-29）",
       "summary": "深度研究任務（精準分析＋完整報告）該用哪個模型？把寫碼的 Pareto 換成 HLE × 智能指數 × 每成功成本，從 32 個模型中選出首選三模型，含讀圖、資料保留、額度試算與 Hermes 設定建議。",
       "tags": [
         "AI 工具",
@@ -57,7 +68,7 @@
     },
     {
       "date": "2026-09-24",
-      "title": "OpenCode Go 模型選擇指南",
+      "title": "OpenCode Go 模型選擇指南（2026-09-24）",
       "summary": "$10/月方案怎麼選模型：以每成功任務成本 × 困難任務解題率 × 額度，比較 32 個模型並給出建議設定。",
       "tags": [
         "AI 工具",
